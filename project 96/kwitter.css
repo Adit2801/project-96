@@ -1,0 +1,9 @@
+.body{
+    background-image: linear-gradient(lightblue,darkblue,black);
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color:yellow ;
+    font-family: comic;
+    font-weight: bold;
+    font-size: 30px;
+}
